@@ -20,3 +20,7 @@ Manual Build
   `$ANDROID_HOME/ndk-bundle`.
 * Download and unpack the latest rsync source into a subfolder named `rsync`.
 * Run `./build`
+
+Version History:
+----------------
+2020-11-15: Build using NDK android-ndk-r13b
